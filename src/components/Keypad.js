@@ -13,5 +13,5 @@ render(){
     <input type="password" onkeyUp={this.enter} />
   )
 }
-  
+
 }
